@@ -1,0 +1,9 @@
+katna
+moviepy
+openai
+pysrt
+toml
+pillow
+numpy
+re
+python-docx

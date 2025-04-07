@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "00:00:00,669 --> 00:00:18,002",
+    "suggestion": "Replace the placeholder 'logoipsum' logo with actual branding or remove it entirely. Ensure the title text transition is smoother and doesn't disappear abruptly while the speaker is still introducing the topic."
+  },
+  {
+    "timestamp": "00:00:20,269 --> 00:01:00,107",
+    "suggestion": "Rewrite and proofread subtitles for grammatical accuracy, clarity, and structure; break down long run-on sentences (Accessibility=1). Replace the placeholder 'logoipsum' logo. Enhance visual signaling by adding graphics/text related to specific ethical points (bias, job loss) instead of relying only on the static title card, to better match the detailed subtitle content (Matching Modality=1, Signaling=2). Consider more specific or dynamic visuals than the generic city graphic (Visual Quality=2)."
+  },
+  {
+    "timestamp": "00:01:47,743 --> 00:02:50,859",
+    "suggestion": "Reduce potential distraction from the scrolling background text by simplifying or slowing down the animation, or using terms more directly related to 'algorithmic bias' instead of generic AI terms (Weeding=2)."
+  },
+  {
+    "timestamp": "00:02:53,405 --> 00:03:38,406",
+    "suggestion": "Replace the placeholder 'logoipsum' logo. Incorporate B-roll footage or relevant graphics illustrating 'AI mobility equity' to better match the spoken content beyond the talking head and generic background (Matching Modality=2). Improve the contrast of the white text overlay against the background, possibly using a subtle drop shadow or semi-transparent backing, for better readability (Accessibility=2)."
+  },
+  {
+    "timestamp": "00:03:40,870 --> 00:04:49,147",
+    "suggestion": "Add audio descriptions detailing key visual elements and on-screen text for visually impaired users. Consider slightly increasing the size of the on-screen bullet points for improved readability on smaller devices (Accessibility=2)."
+  },
+  {
+    "timestamp": "00:04:51,123 --> 00:05:31,982",
+    "suggestion": "Replace the placeholder 'logoipsum' logo (Weeding=2, Visual Quality=2). Replace or supplement the abstract human/robot icons with more specific visuals or animations that directly relate to the examples mentioned (e.g., trucking, taxi services) to strengthen the message about job displacement (Matching Modality=2)."
+  },
+  {
+    "timestamp": "00:05:34,465 --> 00:06:40,925",
+    "suggestion": "Replace the placeholder 'logoipsum' logo. Incorporate relevant B-roll footage or graphics illustrating environmental/public health impacts (e.g., data centers, pollution representations, health icons) to break up the talking head format and better match the spoken content (Matching Modality=2, Weeding=2)."
+  },
+  {
+    "timestamp": "00:06:42,802 --> 00:07:11,385",
+    "suggestion": "Replace the placeholder 'logoipsum' logo with actual branding to improve professionalism (Visual Quality=2). Consider using a less generic or more thematically relevant background."
+  },
+  {
+    "timestamp": "00:07:13,789 --> 00:08:09,551",
+    "suggestion": "Replace the abstract orb animation with visuals directly representing water consumption, data centers, or geographical impacts mentioned in subtitles (e.g., data visualizations, maps, stylized water/server graphics) for better modality matching (Matching Modality=1). Refine the speaker cutout effect for more natural integration with the background (Visual Quality=2)."
+  },
+  {
+    "timestamp": "00:08:11,675 --> 00:08:52,255",
+    "suggestion": "Replace placeholder 'logoipsum' logo and contact details ('email@yourcompany.com', 'www.yourwebsite.com') with actual information (Weeding=2). Use a more distinct or branded background instead of the generic setting (Visual Quality=2). Ensure static text elements remain perfectly stationary; correct the slight placement shift observed (Consistency=2)."
+  },
+  {
+    "timestamp": "00:08:54,416 --> 00:09:05,651",
+    "suggestion": "Replace the placeholder 'logoipsum' logo and placeholder contact details ('email@yourcompany.com', 'www.yourwebsite.com') with the actual final information (Visual Quality=2)."
+  }
+]
